@@ -4,6 +4,9 @@ Introduction
 # Accompanied with the video from Josh Cheek >>>> https://vimeo.com/131588133
 HTML is an amazing tool for marking up documents, but it’s not very fun for writing content.
 
+# link to this sam jump start labs tutorial is here: http://tutorials.jumpstartlab.com/projects/chisel.html
+
+
 Several years ago, John Gruber proposed the idea of Markdown. It’s a style of text formatting that’s less obtrusive than writing HTML, is easy to remember, and is highly readable even when not converted to HTML. Here’s an example:
 
 1
